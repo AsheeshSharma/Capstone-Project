@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "900285068818",
+    "firebase_url": "https://essen-1c40a.firebaseio.com",
+    "project_id": "essen-1c40a",
+    "storage_bucket": "essen-1c40a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900285068818:android:1cacf6bda665d23f",
+        "android_client_info": {
+          "package_name": "com.donteatalone.asheeshsharma.capstone_porject2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900285068818-qv52bhk6b5jri482piqs54t9f9pqthke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Z1sEFrhHkTY2zN0VQeXERkCctyNx8k4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

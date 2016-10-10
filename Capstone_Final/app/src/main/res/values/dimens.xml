@@ -1,0 +1,57 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <!-- Login and Sign Up Screen -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dip</dimen>
+    <dimen name="logo_w_h">160dip</dimen>
+    <dimen name="login_sigup_btn_font">24sp</dimen>
+    <dimen name="pbar_w_h">30dip</dimen>
+    <dimen name="pbar_mrgin_btn">20dip</dimen>
+    <dimen name="not_signup_lgin">18sp</dimen>
+    <dimen name="b1_mtop">16dip</dimen>
+    <dimen name="b2_mtop">20dip</dimen>
+    <dimen name="edit_margin">10dp</dimen>
+    <dimen name="ic_reg_sign_margin">25dp</dimen>
+    <dimen name="scroll_min_height">800dp</dimen>
+    <dimen name="scroll_min_height_l">1000dp</dimen>
+    <!--Activity chat login -->
+    <dimen name="padding_lay">10dp</dimen>
+    <dimen name="margin_bottom">77dp</dimen>
+    <dimen name="margin_bottom2">49dp</dimen>
+    <dimen name="margin_top">20dp</dimen>
+    <dimen name="edt_margin">6dp</dimen>
+    <dimen name="btn_min_w">140dp</dimen>
+    <dimen name="text_s">20sp</dimen>
+    <dimen name="text_s2">24sp</dimen>
+    <!--Activity Res List -->
+    <dimen name="list_divi_h">10.0sp</dimen>
+    <!-- Res detail item -->
+    <dimen name="img_heigh">180dp</dimen>
+    <dimen name="card_cor_rad">4dp</dimen>
+    <dimen name="card_m_t">120dp</dimen>
+    <dimen name="elev2a">5dp</dimen>
+    <dimen name="pos_w">130dp</dimen>
+    <dimen name="bt_w">150dp</dimen>
+    <dimen name="pos_h">170dp</dimen>
+    <dimen name="margin_c">10dp</dimen>
+    <dimen name="margin_ct">20dp</dimen>
+    <dimen name="margin_ct2">25dp</dimen>
+    <dimen name="marg">30dp</dimen>
+    <dimen name="text_sz">25sp</dimen>
+    <dimen name="text_tab">22sp</dimen>
+    <dimen name="img_tab">230dp</dimen>
+    <dimen name="img_tab2">280dp</dimen>
+    <dimen name="lay_h">48dp</dimen>
+    <dimen name="text_sb">18sp</dimen>
+    <dimen name="pl1">32dp</dimen>
+    <dimen name="pl2">16dp</dimen>
+    <dimen name="pl3">64dp</dimen>
+    <!--Splash Screen -->
+    <dimen name="splash_font_head_size">52sp</dimen>
+    <dimen name="eleva">3dp</dimen>
+    <!--Intro Screens -->
+    <dimen name="img_size">92dp</dimen>
+    <dimen name="padding_w">8dp</dimen>
+    <dimen name="wid_h">220dp</dimen>
+</resources>
