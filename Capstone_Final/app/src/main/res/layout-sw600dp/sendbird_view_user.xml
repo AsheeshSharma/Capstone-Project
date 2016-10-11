@@ -61,7 +61,7 @@
                 android:id="@+id/txt_status"
                 android:textSize="10sp"
                 android:textColor="#8e8e8e"
-                android:text="Online"
+                android:text="@string/onl"
                 android:layout_gravity="top|right"
                 />
             <TextView

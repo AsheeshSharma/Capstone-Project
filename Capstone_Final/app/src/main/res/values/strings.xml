@@ -74,4 +74,11 @@
     <string name="u_b">User Block</string>
     <string name="u_bm">Do you want to block the user?</string>
     <string name="pl_all">Please allow a requested permission to upload.</string>
+    <string name="desc">Description</string>
+    <string name="f_na">File Name</string>
+    <string name="c_na">Channel Name</string>
+    <string name="def_si">0.99MB</string>
+    <string name="lr_t">Lorem Ipsum text: </string>
+    <string name="lr_ft">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <string name="onl">Online</string>
 </resources>

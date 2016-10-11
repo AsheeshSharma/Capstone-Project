@@ -8,7 +8,7 @@ android {
         release {
             keyAlias 'sema'
             keyPassword 'maheshseema'
-            storeFile file('C:/Users/Asheesh.Sharma/Desktop/Capstone Project/Capstone_Final/app/appkey.jks')
+            storeFile file('/appkey.jks')
             storePassword 'maheshseema'
         }
     }

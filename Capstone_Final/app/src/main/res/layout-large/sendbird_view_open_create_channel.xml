@@ -10,7 +10,7 @@
         android:id="@+id/etxt_chname"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Channel Name"
+        android:hint="@string/c_na"
         android:singleLine="true"
         android:gravity="center"
         android:maxLength="200"/>

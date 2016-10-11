@@ -19,7 +19,7 @@
         android:textSize="14sp"
         android:textColor="#595959"
         android:autoLink="web"
-        android:text="Lorem Ipsum text: "
+        android:text="@string/lr_t"
         android:paddingBottom="4dp"
         />
     </FrameLayout>
@@ -63,7 +63,7 @@
                         android:singleLine="true"
                         android:textSize="10sp"
                         android:textColor="#595959"
-                        android:text="File Name"
+                        android:text="@string/f_na"
                         android:paddingRight="8dp"
                         />
                     <TextView
@@ -73,7 +73,7 @@
                         android:singleLine="true"
                         android:textSize="10sp"
                         android:textColor="#595959"
-                        android:text="0.99MB"
+                        android:text="@string/def_si"
                         />
                 </LinearLayout>
 
@@ -108,7 +108,7 @@
                         android:singleLine="true"
                         android:textSize="10sp"
                         android:textColor="#595959"
-                        android:text="File Name"
+                        android:text="@string/f_na"
                         android:paddingRight="8dp"
                         />
                     <TextView
@@ -118,7 +118,7 @@
                         android:singleLine="true"
                         android:textSize="10sp"
                         android:textColor="#595959"
-                        android:text="0.99MB"
+                        android:text="@string/def_si"
                         />
                 </LinearLayout>
                 <ImageView

@@ -42,7 +42,7 @@
                 android:textSize="16sp"
                 android:textColor="#414858"
                 android:textStyle="bold"
-                android:text="File Name"
+                android:text="@string/f_na"
                 />
             <TextView
                 android:id="@+id/txt_desc"
@@ -51,8 +51,8 @@
                 android:singleLine="true"
                 android:textSize="12sp"
                 android:textColor="#a6b0ba"
-                android:paddingRight="20dp"
-                android:text="Description"
+                android:start="20dp"
+                android:text="@string/desc"
                 />
         </LinearLayout>
     </LinearLayout>
